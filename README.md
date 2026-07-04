@@ -5,7 +5,8 @@ Projeto de visão computacional que projeta um cubo 3D sobre a imagem de uma web
 ## Demonstração
 
 
-<img width="960" height="720" alt="202607031949 (1)" src="https://github.com/user-attachments/assets/56ece043-c745-4147-8aec-4613cabbf4e4" />
+<img width="640" height="480" alt="demonstration" src="https://github.com/user-attachments/assets/89d99c78-f8f5-4499-87ce-dc79836251c6" />
+
 
 
 ## Funcionalidades
